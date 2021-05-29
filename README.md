@@ -30,7 +30,7 @@
 
 
 <details>
-<summary>🌱Click me</summary>
+<summary>**Click me**</summary>
 <div markdown="1">
 
 **💻 Experience**
