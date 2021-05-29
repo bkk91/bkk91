@@ -32,8 +32,14 @@
 <details>
 <summary>👇</summary>
 <div markdown="1">
+ 
+**🌱 Motto**
+- Do your best and God will do rest
+- Learn not, know not
+- Will is power 
+ 
 
-**💻 Experience**
+ **💻 Experience**
 - The Korean Armed Forces
 - SKEnglish
 - Korean Tradition Museum manager
@@ -42,11 +48,6 @@
 - Binance gift-option trading
  
  
-**🌱 Motto**
-- Do your best and God will do rest
-- Learn not, know not
-- Will is power 
-
  </div>
 </details>
 
