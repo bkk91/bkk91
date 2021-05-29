@@ -4,11 +4,14 @@
 
 ### 👩‍💻 Notion 포트폴리오
 
-####  Java Web Developer 🌱
+####  JAVA Web Developer 🌱
 
 **1991.09.20**
+
 email : boongkk1991@gmail.com
+
 github : http://github.com/bkk91
+
 blog - tistory.com/bkk91
 
 > 🤔 호기심이 많은 개발자
