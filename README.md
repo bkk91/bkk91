@@ -1,4 +1,21 @@
-### Hi there 👋
+# 
+
+## 곽붕기
+
+### 👩‍💻 Notion 포트폴리오
+
+####  Java Web Developer 🌱
+
+**1991.09.20**
+email : boongkk1991@gmail.com
+github : http://github.com/bkk91
+blog - tistory.com/bkk91
+
+> 🤔 호기심이 많은 개발자
+
+> 💬 문제해결에 두려워하지 않는 개발자
+
+> 😄 소통을 좋아하는 개발자 
 
 <!--
 **bkk91/bkk91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
