@@ -2,23 +2,39 @@
 
 ## 곽붕기
 
-### 👩‍💻 Notion 포트폴리오
+###  ✨ 포트폴리오
 
 ####  JAVA Web Developer 🌱
 
 **1991.09.20**
+email : boongkk1991@gmail.com
+github : http://github.com/bkk91
+blog - tistory.com/bkk91
 
-> email : boongkk1991@gmail.com
+**기술스택**
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
-> github : http://github.com/bkk91
+> 🤔 호기심이 많은 개발자
 
-> blog - tistory.com/bkk91
+> 💬 문제해결에 두려워하지 않는 개발자
 
-**🤔 호기심이 많은 개발자**
+> 😄 소통을 좋아하는 개발자
 
-**💬 문제해결에 두려워하지 않는 개발자**
+**💻 Experience**
+- The Korean Armed Forces
+- SKEnglish
+- Korean Tradition Museum manager
+- VC Sunight Generaiton
+- Philoptics research assistance with Samsung Display
+- Binance gift-option trading
+ 
+**🌱 Motto**
+- Do your best and God will do rest
+- Learn not, know not
+- Will is power
+ 
 
-**😄 소통을 좋아하는 개발자**
+🌱👩‍💻
 
 <!--
 **bkk91/bkk91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
