@@ -30,7 +30,7 @@
 
 
 <details>
-<summary>더보기</summary>
+<summary>Details</summary>
 <div markdown="1">
 
 **💻 Experience**
