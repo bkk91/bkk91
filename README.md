@@ -30,16 +30,18 @@
 
 
 <details>
-<summary>👇</summary>
+<summary>
+**About me**
+</summary>
 <div markdown="1">
  
-**🌱 Motto**
+**Motto**
 - Do your best and God will do rest
 - Learn not, know not
 - Will is power 
  
 
- **💻 Experience**
+ **Experience**
 - The Korean Armed Forces
 - SKEnglish
 - Korean Tradition Museum manager
@@ -51,3 +53,41 @@
  </div>
 </details>
 
+<details>
+<summary>
+**Activity**
+</summary>
+
+<div markdown="1">
+ 
+# **활동**
+### [활동 요약](#활동-요약)  
+  > [교육/캠프] 비트컴퓨터 JAVA 웹개발 # 203기 (2021.02.22 ~ 2021.07.21)  
+  
+  > [교육] 우아한테크러닝 4기 : 나만의 노션 만들기 (2021.06.01 ~ 2021.06.24)
+ 
+### [프로젝트 리스트](#프로젝트-요약)  
+  > [JAVA.console] [영화예매](#java-console)
+  
+  > [JAVA.swing] [테트리스](#java-swing)
+  
+  > [Web Front-end] [창덕궁달빛기행](#web-front-end)  
+  
+  > [Web Back-end] [DOG SHELTER](#web-back-end) 
+   
+  > [Web Project] [SAP SCANNER](#web-front+back-end)   
+ 
+### [프로젝트 요약](#프로젝트-요약)  
+ 
+| 기간 | 프로젝트 명 |  내용|
+|:----|:---------|:--------|
+| 2021.03.15 – 2021.03.19 | Movie Ticket Booking Program (MTBP) | MVC패턴을 활용하여 영화예매 프로그램을 Console로 구현 (1st programming)  |
+| 2021.03.22 – 2021.04.02 | Tetris | Java Swing을 활용하여 테트리스 프로그램 구현 |
+| 2021.04.12 - 2021.04.23 | Web Front-end | 비트컴퓨터 교육과정 중 프론트엔드 프로젝트 작업  | 
+| 2021.04.26 - 2021.05.07 | Web Back-end | 비트컴퓨터 교육과정 중 백엔드 프로젝트 작업  |
+| 2021.05.17 - 2021.07.12(예정) | Web Project | 비트컴퓨터 교육과정 중 최종 프로젝트 작업 |
+| 2021.06.01 – 2021.06.24 | Java Script | 우아한테크러닝 교육과정 : 나만의 노션 만들기  |
+ 
+ 
+ </div>
+</details>
