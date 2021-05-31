@@ -31,7 +31,7 @@
 
 <details>
 <summary>
-<b>About me
+ <b>About me</b>
 </summary>
 <div markdown="1">
  
@@ -55,7 +55,7 @@
 
 <details>
 <summary>
-<b>Activity
+ <b>Activity</b>
 </summary>
 
 <div markdown="1">
