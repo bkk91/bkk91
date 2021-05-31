@@ -67,7 +67,7 @@
   > [교육] 우아한테크러닝 4기 : 나만의 노션 만들기 (2021.06.01 ~ 2021.06.24)
  
 ### [프로젝트 리스트](#프로젝트-요약)  
-  > [JAVA.console] [영화예매](#java-console)
+  > [JAVA.console] [영화예매](#movieReservatoin)
   
   > [JAVA.swing] [테트리스](#java-swing)
   
