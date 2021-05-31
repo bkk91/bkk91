@@ -55,7 +55,7 @@
 
 <details>
 <summary>
-**Activity**
+<b>Activity
 </summary>
 
 <div markdown="1">
