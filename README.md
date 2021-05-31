@@ -34,13 +34,12 @@
  <b>About me</b>
 </summary>
 <div markdown="1">
- 
+<br> 
 **Motto**
 - Do your best and God will do rest
 - Learn not, know not
 - Will is power 
- 
-
+<br>
  **Experience**
 - The Korean Armed Forces
 - SKEnglish
