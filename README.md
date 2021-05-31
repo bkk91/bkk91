@@ -69,13 +69,13 @@
 ### [프로젝트 리스트](#프로젝트-요약)  
   > [JAVA.console] [영화예매](https://github.com/bkk91/movieReservation)
   
-  > [JAVA.swing] [테트리스](#java-swing)
+  > [JAVA.swing] [테트리스](https://github.com/bkk91/tetris)
   
   > [Web Front-end] [창덕궁달빛기행](https://github.com/bkk91/culturalTrip)  
   
-  > [Web Back-end] [DOG SHELTER](#web-back-end) 
+  > [Web Back-end] [DOG SHELTER](https://github.com/bkk91/dogShelter) 
    
-  > [Web Project] [SAP SCANNER](#web-front+back-end)   
+  > [Web Project] [SAP SCANNER](https://github.com/bkk91/sapScanner)   
  
 ### [프로젝트 요약](#프로젝트-요약)  
  
