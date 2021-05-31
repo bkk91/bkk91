@@ -31,7 +31,7 @@
 
 <details>
 <summary>
-**About me**
+<b>About me
 </summary>
 <div markdown="1">
  
