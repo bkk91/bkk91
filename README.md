@@ -77,7 +77,7 @@
    
   > [Web Project] [SAP SCANNER](https://github.com/bkk91/sapScanner)   
  
-  > [Project] [나만의 노션 만들기](https://github.com/bkk91/notion_woowahan)   
+  > [Project] [나만의 노션 만들기](https://github.com/bkk91/woowahan_notion)   
  
 ### [프로젝트 요약](#프로젝트-요약)  
  
