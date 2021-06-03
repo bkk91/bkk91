@@ -77,6 +77,8 @@
    
   > [Web Project] [SAP SCANNER](https://github.com/bkk91/sapScanner)   
  
+  > [Project] [Notion](https://github.com/bkk91/notion_woowahan)   
+ 
 ### [프로젝트 요약](#프로젝트-요약)  
  
 | 기간 | 프로젝트 명 |  내용|
